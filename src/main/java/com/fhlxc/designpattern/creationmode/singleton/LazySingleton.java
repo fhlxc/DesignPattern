@@ -1,4 +1,4 @@
-package com.fhlxc.designpattern.creationmode;
+package com.fhlxc.designpattern.creationmode.singleton;
 
 /**
 * @author Xingchao Long
